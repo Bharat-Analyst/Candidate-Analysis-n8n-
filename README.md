@@ -33,17 +33,3 @@ This **n8n workflow** automates the process of handling job applications by **ex
 ### **5️⃣ Candidate Evaluation & Storage**
 - The system generates an **HR review & matching score**.
 - Data is **stored in Google Sheets** for final review.
-
----
-
-## 📌 Requirements
-### **n8n Setup**
-1. Install **n8n**:
-   ```bash
-   npm install -g n8n
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-streamlit run app.py
